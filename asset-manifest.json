@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nrwe/static/css/main.d1d1cfa5.css",
+    "main.js": "/nrwe/static/js/main.a7fb0812.js",
+    "static/js/787.88550bd9.chunk.js": "/nrwe/static/js/787.88550bd9.chunk.js",
+    "static/media/NRWE_LOGO.svg": "/nrwe/static/media/NRWE_LOGO.f0d05bba646ee9cf331aef126ba01d46.svg",
+    "index.html": "/nrwe/index.html",
+    "main.d1d1cfa5.css.map": "/nrwe/static/css/main.d1d1cfa5.css.map",
+    "main.a7fb0812.js.map": "/nrwe/static/js/main.a7fb0812.js.map",
+    "787.88550bd9.chunk.js.map": "/nrwe/static/js/787.88550bd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1d1cfa5.css",
+    "static/js/main.a7fb0812.js"
+  ]
+}
