@@ -9,8 +9,9 @@ function App() {
         <p>
           
         </p>
-        
+        <div>Hey YouTube, yes we're the copyright owners of The World Over. I don't know what else you require from us. We're not setting up a corporate email for you so hopefully posting this message on our website will be enough.</div>
       </header>
+     
     </div>
   );
 }
